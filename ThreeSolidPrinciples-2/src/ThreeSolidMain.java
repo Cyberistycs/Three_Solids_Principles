@@ -64,7 +64,7 @@ class SuperWorker implements IWorker{
 		//.... eating in launch break
 	}
 }
-
+//comments
 class Manager {
 	IWorker worker;
 
