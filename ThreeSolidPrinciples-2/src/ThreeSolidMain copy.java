@@ -65,6 +65,7 @@ class SuperWorker implements IWorker{
 	}
 }
 //comments
+//saSA
 class Manager {
 	IWorker worker;
 

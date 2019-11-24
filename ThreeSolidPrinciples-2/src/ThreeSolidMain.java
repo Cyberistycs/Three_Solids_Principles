@@ -65,6 +65,7 @@ class SuperWorker implements IWorker{
 	}
 }
 //comments
+//dasdsadsa
 class Manager {
 	IWorker worker;
 
