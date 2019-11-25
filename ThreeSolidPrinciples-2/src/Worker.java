@@ -1,4 +1,5 @@
 class Worker implements IWorker{
+	// comment
 	public void work() {
 		// ....working
 	}
